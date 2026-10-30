@@ -1,0 +1,6 @@
+{
+  "name": "MySikkimTrip - Sikkim Tour Packages",
+  "description": "Standalone mobile-first tour packages demo app for MySikkimTrip with 3N/4D to 7N/8D interactive itineraries, hotel tiers, and instant WhatsApp enquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
